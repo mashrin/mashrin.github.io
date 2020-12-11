@@ -120,11 +120,11 @@
             prize: "Awarded the best student performer award by Cognizant."
             },
             {
-            key: "jp morgan",
+            key: "jpmorgan",
             name: "Code for Good Hackathon",
             image: "static/media/jp.png",
             organizer: "JP Morgan",
-            prize: "Created the web platform for the Amogh Trust NGO.",
+            prize: "Developed an education web platform for the Amogh Trust NGO.",
             link: "https://github.com/mashrin/JPMorgan_CodeForGoodHackathon"
             },
             {
