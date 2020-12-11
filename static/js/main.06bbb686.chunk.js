@@ -110,7 +110,7 @@
             name: "Emerging Growth Incubation",
             image: "static/media/intel.png",
             organizer: "Intel",
-            prize: "Finalist for the Intel Emerging Growth Incubation. My role in the venture was of the Chief Technology Officer."
+            prize: "Finalist for the Intel Emerging Growth Incubation (typically less than 20 finalist from all across Intel). My role in the venture was of the Chief Technology Officer."
             },
             {
             key: "cognizant",
@@ -118,6 +118,14 @@
             image: "static/media/cognizant.png",
             organizer: "Cognizant",
             prize: "Awarded the best student performer award by Cognizant."
+            },
+            {
+            key: "jp morgan",
+            name: "JP Morgan Code for Good Hackathon",
+            image: "static/media/jp.png",
+            organizer: "JP Morgan",
+            prize: "Created the web platform for the Amogh Trust NGO.",
+            link: "https://github.com/mashrin/JPMorgan_CodeForGoodHackathon"
             },
             {
             key: "language-certificate",
