@@ -121,7 +121,7 @@
             },
             {
             key: "jp morgan",
-            name: "JP Morgan Code for Good Hackathon",
+            name: "Code for Good Hackathon",
             image: "static/media/jp.png",
             organizer: "JP Morgan",
             prize: "Created the web platform for the Amogh Trust NGO.",
