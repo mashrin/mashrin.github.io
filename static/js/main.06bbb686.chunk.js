@@ -20,7 +20,7 @@
             email: "mashrins@gmail.com",
             links: {
                 github: "https://github.com/mashrin",
-                resume: "https://docs.google.com/gview?url=https://github.com/mashrin/resume/raw/main/Mashrin%20CV.pdf&embedded=true"
+                resume: "https://docs.google.com/gview?url=https://github.com/mashrin/resume/raw/main/MashrinCV.pdf&embedded=true"
             },
     //          coursework: ["A Second Course on Linear Algebra", "Combinatorial Analysis", "Computer Organization and Programming", "Computer Vision and Pattern Recognition", "Design and Analysis of Algorithms", "Objects and Design", "Technical Communication"],
             skills: {
