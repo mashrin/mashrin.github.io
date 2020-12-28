@@ -50,6 +50,27 @@
             prize: "Awarded the merit certificate for highest grade in all subjects. Merit certificate is awarded to top 0.1% of all successful participants in the All India Secondary School Examination."
             },
             {
+            key: "technologist",
+            name: "Technologist of the Year Award",
+            image: "static/media/intel.png",
+            organizer: "Intel",
+            prize: "Winner of the Technologist of the Year 2020 Award. Youngest winner of this award."
+            },
+            {
+            key: "bestproject",
+            name: "Best Project Award",
+            image: "static/media/intel.png",
+            organizer: "Intel",
+            prize: "Winner of the Best Project Award for the Health AI project."
+            },
+            {
+            key: "innovate",
+            name: "Innovative Project Award",
+            image: "static/media/intel.png",
+            organizer: "Intel",
+            prize: "Winner of the Innovative Project Award for the Health AI project."
+            },
+            {
             key: "dra",
             name: "Division Recognition Award",
             image: "static/media/intel.png",
